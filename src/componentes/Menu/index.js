@@ -1,6 +1,5 @@
 import React from 'react'
 import styles from './Menu.module.css';
-import { Link, useLocation } from 'react-router-dom';
 import MenuLink from 'componentes/MenuLink';
 
 export default function Menu() {
