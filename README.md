@@ -12,7 +12,7 @@
 
 <hr>
 
-<img src="Alura-Fruta.gif" title="Gif mostrando o site">
+<img src="Projeto sem título.gif" title="Gif mostrando o site">
 
 <section id="sobre">
     <h2 style="font-size: 1.25rem;">Sobre</h2>
